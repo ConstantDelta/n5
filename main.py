@@ -1,5 +1,5 @@
-num1=[1,2,3,4,5]
-num2=[0,0,0,0,0]
+num1=[1,2,3,4]
+num2=[0,0,0,0]
 def med(num1, num2):
     sor=sorted(num1+num2)
     if len(sor)==0:
